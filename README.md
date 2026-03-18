@@ -21,31 +21,31 @@
 
 | Java | Python | PHP | JavaScript | HTML5 | CSS3 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=py" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/> |
 
 **Frameworks & Libraries**
 
 | Spring Boot | Bootstrap |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=spring" width="40"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40"/> |
 
 **Databases**
 
 | MySQL |
 |:---:|
-| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/> |
 
 **DevOps & Infrastructure**
 
 | Docker | Apache Tomcat |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=docker" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40"/> |
 
 **Tools & Version Control**
 
 | Git | GitHub |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/> |
 
 
 ---
