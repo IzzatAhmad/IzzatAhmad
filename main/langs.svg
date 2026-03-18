@@ -73,7 +73,7 @@
       <g transform="translate(0, 25)">
         <g class="stagger" style="animation-delay: 450ms">
           <circle cx="5" cy="6" r="5" fill="#f07300"/>
-          <text x="15" y="10" class="lang-name">CoffeeScript 99%</text>
+          <text x="15" y="10" class="lang-name">Coffee 99%</text>
         </g>
         <g transform="translate(0, 25)">
           <g class="stagger" style="animation-delay: 600ms">
