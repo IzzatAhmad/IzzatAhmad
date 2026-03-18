@@ -50,7 +50,7 @@
 
 ---
 
-### 📁 Most Used Languages *(self-reported, not GitHub's coffee counter)*
+### 📁 Most Used Languages 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IzzatAhmad/IzzatAhmad/main/main/langs.svg" alt="Most Used Languages" />
