@@ -19,41 +19,33 @@
 
 **Languages**
 
-<p align="left">
-  <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
-  <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
-</p>
+| Java | Python | PHP | JavaScript | HTML5 | CSS3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=py" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> |
 
 **Frameworks & Libraries**
 
-<p align="left">
-  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
-</p>
+| Spring Boot | Bootstrap |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=spring" width="40"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> |
 
 **Databases**
 
-<p align="left">
-  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
-</p>
+| MySQL |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> |
 
 **DevOps & Infrastructure**
 
-<p align="left">
-  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
-  <a href="https://tomcat.apache.org" title="Apache Tomcat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+| Docker | Apache Tomcat |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40"/> |
 
 **Tools & Version Control**
 
-<p align="left">
-  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
-</p>
+| Git | GitHub |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> |
 
 
 ---
