@@ -1,0 +1,94 @@
+<svg
+  width="300"
+  height="170"
+  viewBox="0 0 300 170"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+>
+  <style>
+    .header {
+      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #70a5fd;
+      animation: fadeInAnimation 0.8s ease-in-out forwards;
+    }
+    @supports(-moz-appearance: auto) { .header { font-size: 15.5px; } }
+
+    .lang-name {
+      font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #38bdae;
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    #rect-mask rect {
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    .lang-progress {
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
+
+    @keyframes slideInAnimation {
+      from { width: 0; }
+      to   { width: 250px; }
+    }
+    @keyframes growWidthAnimation {
+      from { width: 0; }
+      to   { width: 100%; }
+    }
+    @keyframes fadeInAnimation {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+  </style>
+
+  <!-- Card background -->
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2"
+        width="299" fill="#1a1b27" stroke-opacity="1"/>
+
+  <!-- Title -->
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Most Used Languages</text>
+  </g>
+
+  <!-- Body -->
+  <g transform="translate(0, 55)">
+    <svg x="25">
+
+      <!-- Progress bar track mask -->
+      <mask id="rect-mask">
+        <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+      </mask>
+
+      <!-- Progress bars -->
+      <rect mask="url(#rect-mask)" class="lang-progress"
+            x="0" y="0" width="247.5" height="8" fill="#f07300"/> <!-- CoffeeScript 99% -->
+      <rect mask="url(#rect-mask)" class="lang-progress"
+            x="247.5" y="0" width="1.25" height="8" fill="#b07219"/> <!-- Java 0.5% -->
+      <rect mask="url(#rect-mask)" class="lang-progress"
+            x="248.75" y="0" width="1.25" height="8" fill="#0db7ed"/> <!-- Docker 0.5% -->
+
+      <!-- Legend -->
+      <g transform="translate(0, 25)">
+        <g class="stagger" style="animation-delay: 450ms">
+          <circle cx="5" cy="6" r="5" fill="#f07300"/>
+          <text x="15" y="10" class="lang-name">CoffeeScript 99%</text>
+        </g>
+        <g transform="translate(0, 25)">
+          <g class="stagger" style="animation-delay: 600ms">
+            <circle cx="5" cy="6" r="5" fill="#b07219"/>
+            <text x="15" y="10" class="lang-name">Java 0.5%</text>
+          </g>
+        </g>
+        <g transform="translate(0, 50)">
+          <g class="stagger" style="animation-delay: 750ms">
+            <circle cx="5" cy="6" r="5" fill="#0db7ed"/>
+            <text x="15" y="10" class="lang-name">Docker 0.5%</text>
+          </g>
+        </g>
+      </g>
+
+    </svg>
+  </g>
+</svg>
