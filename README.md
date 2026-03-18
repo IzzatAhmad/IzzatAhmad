@@ -17,27 +17,53 @@
 
 ### 🛠️ My Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,php,html,css,js,bootstrap,mysql,docker,git,github&perline=13&theme=dark" alt="My Skills" />
-</p>
+**Languages**
 
 <p align="left">
-  <!-- Apache Tomcat — not on skillicons.dev, using devicon -->
-  <a href="https://tomcat.apache.org" target="_blank" rel="noreferrer" title="Apache Tomcat">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" alt="tomcat" width="40" height="40"/>
-  </a>
+  <a href="https://www.java.com" title="Java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
+  <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
+</p>
+
+**Frameworks & Libraries**
+
+<p align="left">
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
+</p>
+
+**Databases**
+
+<p align="left">
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
+</p>
+
+**DevOps & Infrastructure**
+
+<p align="left">
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
+  <a href="https://tomcat.apache.org" title="Apache Tomcat"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+**Tools & Version Control**
+
+<p align="left">
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
 </p>
 
 
 ---
 
-### 📁 Most Used Languages
+### 📁 Most Used Languages *(self-reported, not GitHub's coffee counter)*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IzzatAhmad/IzzatAhmad/main/main/langs.svg" alt="Most Used Languages" />
 </p>
 
----
 
 
 ### 🌐 Let's Connect
